@@ -1,12 +1,37 @@
-p {
-  background-color:#F6B618;
+div.div-1{
+  height: 100px;
   padding: 10px;
-  padding-bottom: 65px;
-  }
+  margin-bottom: 10px;
 
-div {
+}
+.bandera-amarilla {
+  background-color:#F6B618;
+}
+
+.bandera-gris {
   color: white;
   background-color: #2B2B2B;
+}
+div.div-2{
+  width: 200px;
+  height: 100px;
   padding: 10px;
-  padding-bottom: 65px;
+  margin-bottom: 10px;
+
+}
+
+div.div-3{
+  width: 200px;
+  height: 100px;
+  padding: 10px;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+div.div-4{
+  width: 200px;
+  height: 100px;
+  padding: 10px;
+  margin-right: 10px;
+  display: inline;
 }
